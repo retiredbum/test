@@ -1,1 +1,17 @@
-
+#EXTM#U
+#EXTINF:-1 tvg-id="HD7" tvg-log="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ACTION
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.m3u8
+#EXTINF:-1 tvg-id="SSZ" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT BLITZ
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111009.m3u8
+#EXTINF:-1 tvg-id="12H" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/12H.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT CRICKET
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110707.m3u8
+#EXTINF:-1 tvg-id="EDH" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/EDH.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT GOLF
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111012.m3u8
+#EXTINF:-1 tvg-id="SH4" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH4.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT GRANDSTAND
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110696.m3u8
+#EXTINF:-1 tvg-id="E30" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT MOTORSPORT
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111010.m3u8
+#EXTINF:-1 tvg-id="A11" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/A11.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT RUGBY
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110706.m3u8
+#EXTINF:-1 tvg-id="S34" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/S34.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT TENNIS
+http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/111011.m3u8
