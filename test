@@ -1,4 +1,4 @@
-#EXTM#U
+#EXTM3U
 #EXTINF:-1 tvg-id="HD7" tvg-log="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT ACTION
 http://primestreams.tv:826/live/Madtown09/skxMuFSPgv/110705.m3u8
 #EXTINF:-1 tvg-id="SSZ" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSZ.png" group-title="WORLD SPORTS",SPORTS : AF SUPERSPORT BLITZ
