@@ -1,0 +1,237 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESPN 2 Africa" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/63d7ebf810808d4d7aa14d9ef29a37ee.png" group-title="South Africa ➾ Sports",ESPN 2 Africa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/295317.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ignition" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/f179d158bdf42656fdd712466381da3a.png" group-title="South Africa ➾ Sports",Ignition
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/38552.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="South Africa ➾ Sports",SuperSport Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/194354.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="South Africa ➾ Sports",SuperSport Blitz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/281536.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="South Africa ➾ Sports",SuperSport Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11637.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="South Africa ➾ Sports",SuperSport Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11641.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="South Africa ➾ Sports",SuperSport Grandstand
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/194353.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="South Africa ➾ Sports",SuperSport Motorsport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11638.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="South Africa ➾ Sports",SuperSport Rugby
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11639.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="South Africa ➾ Sports",SuperSport Tennis
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/15200.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="South Africa ➾ Sports",SuperSport Variety 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11633.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="South Africa ➾ Sports",SuperSport Variety 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11634.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="South Africa ➾ Sports",SuperSport Variety 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11635.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="South Africa ➾ Sports",SuperSport Variety 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11636.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="UK ➾ Sports",Box Nation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/4719.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fcd9da9870d36ec51c1232e395e37c2e.png" group-title="UK ➾ Sports",BT Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/270.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c50393867c2322666f3bab470cee3c28.png" group-title="UK ➾ Sports",BT Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/273.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7490f8804522a1146efbf31a624c2fae.png" group-title="UK ➾ Sports",BT Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/271.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport ESPN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d1e7fd559255ab038f34122b16170e4f.png" group-title="UK ➾ Sports",BT Sport ESPN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1124.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BT Sport Extra 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/fefc9aa44309851c7ac2403a7910d59d.png" group-title="UK ➾ Sports",BT Sport Extra 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/283203.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Edge Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/f3e0a064cfda647c80672f12115c4d56.png" group-title="UK ➾ Sports",Edge Sport
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/54012.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="UK ➾ Sports",EUROSPORT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/692.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="UK ➾ Sports",EUROSPORT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1555.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FreeSports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d80bfc06c6ce14109aff8a276ef9a779.png" group-title="UK ➾ Sports",FreeSports
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/37876.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoRRacing" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c5315a189195023bf96bd76161880f5a.png" group-title="UK ➾ Sports",MotoRRacing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/295426.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RACING TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bfd35bd3d4c2f735e85a6ca1ad12ab5.png" group-title="UK ➾ Sports",RACING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/731.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedBull TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d817f0109f2d3b50c6c3aa54898b014.png" group-title="UK ➾ Sports",RedBull TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/85429.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rugby World TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d00032eaaed29102d4df9cc31bd88f79.png" group-title="UK ➾ Sports",Rugby World TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/281576.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/8c24e752f56cbf20e36f414088013773.png" group-title="UK ➾ Sports",Sky Sports Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/268.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/989d4bde4ee6d3236460b11510e03e5c.png" group-title="UK ➾ Sports",Sky Sports Arena
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/267.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Cricket" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b33dfe81c31eb1ea15ca2705d24af664.png" group-title="UK ➾ Sports",Sky Sports Cricket
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/269.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports F1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/62ec7805e9eb3332ff2a74cd8f99be66.png" group-title="UK ➾ Sports",Sky Sports F1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/265.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Golf" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/5acb0ff26afa4f347663d42261af36bf.png" group-title="UK ➾ Sports",Sky Sports Golf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/264.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Main Event" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/367ea46b760bdd8955db180204300052.png" group-title="UK ➾ Sports",Sky Sports Main Event
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/283053.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Mix" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/14216659a007f43c908ea7acb0080325.png" group-title="UK ➾ Sports",Sky Sports Mix
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/261.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/429d072a80243dcd3db3c4c941b8f5e0.png" group-title="UK ➾ Sports",Sky Sports News
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/260.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sports Racing" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/54cd90adcee875ac0369ac5b061d62d6.png" group-title="UK ➾ Sports",Sky Sports Racing
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/163132.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Justice" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/78173972af8b08882e85ddf03f4f8ca1.png" group-title="UK ➾ Documentary",CBS Justice
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1122.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CBS Reality" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/654a952a06a8db07f28f8a7569085ce5.png" group-title="UK ➾ Documentary",CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1121.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5922afa182b23da0f8e8d980a104b42c.png" group-title="UK ➾ Documentary",Crime+ Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/734.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery H&H" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ed888d857fa811902977ec608d895cd5.png" group-title="UK ➾ Documentary",Discovery H&H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/282757.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b0e6338fdd9b3b61300bb3469f76e3b0.png" group-title="UK ➾ Documentary",Discovery History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/694.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e76011290ff4124502f1af1e6fb6e980.png" group-title="UK ➾ Documentary",Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/713.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4da07a802fec387b6b52048f87851ac.png" group-title="UK ➾ Documentary",DMAX
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1604.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6b57b06e70829b1d9aed1d7a04dcc28d.png" group-title="UK ➾ Documentary",History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/282756.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/06d3d7feaeb2fe01835fb88fe2211305.jpg" group-title="UK ➾ Documentary",History 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1601.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Investigation Discovery" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/881df5f496a975889fd4b98902dc85ed.png" group-title="UK ➾ Documentary",Investigation Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/278449.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/525fe2486b5af4891ec9a91dd826290d.png" group-title="UK ➾ Documentary",NAT GEO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1101.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Quest" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aadc2dc16caad7c0e3f2d7a0fc36082.png" group-title="UK ➾ Documentary",Quest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1096.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Really" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb2719d77f7a4ee4483f140e5a38b8f2.png" group-title="UK ➾ Documentary",Really
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/742.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Arts" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e41f551b8f8642a7a3c0c439b8b4e880.png" group-title="UK ➾ Documentary",Sky Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1094.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Documentaries" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/6998cb52fd64b65c0f4efbb2d4cf6a62.png" group-title="UK ➾ Documentary",Sky Documentaries
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/187346.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SYFY" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7efa6e7db54932ddfe956aac206341dc.png" group-title="UK ➾ Documentary",SYFY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1068.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat Explore" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/7102d7cadec9ec4a7bd4221510f86dab.png" group-title="UK ➾ Documentary",Viasat Explore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/187632.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Viasat History" tvg-logo="http://s3.i3ns.net/portal/picon/2020-08/daf22d16c512c4fcb8da38f8a0fb8a26.png" group-title="UK ➾ Documentary",Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/16398.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Watch" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Documentary",Watch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/280287.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yesterday" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2709319fbbdc11c09f807891bd965720.png" group-title="UK ➾ Documentary",Yesterday
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/1065.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yesterday +1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="UK ➾ Documentary",Yesterday +1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296270.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Arizona Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/0b2ecaf6211ae11aa8e294fac8d22b31.png" group-title="USA ➾ Sports",Bally Sports Arizona Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/150613.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Detroit" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/4de29829f16a53e657cc3db6e234e390.png" group-title="USA ➾ Sports",Bally Sports Detroit
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/6463.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Florida" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e1dd92a79b274d75c69d7dc4a440f0a4.png" group-title="USA ➾ Sports",Bally Sports Florida
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296662.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Great Lakes" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e02da0e591b34b53f04f9654fa2fb717.png" group-title="USA ➾ Sports",Bally Sports Great Lakes
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296665.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Indiana" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/72cee830b80c1464666f319ce14d4191.png" group-title="USA ➾ Sports",Bally Sports Indiana
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296666.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Kansas City" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/e16eb8089ba1e4c107aa56b5d103a58e.png" group-title="USA ➾ Sports",Bally Sports Kansas City
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296667.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Midwest" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/71682ac1945e0bb4e4fa6a144cc4731d.png" group-title="USA ➾ Sports",Bally Sports Midwest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/58557.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Midwest Alternate" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5c4a7007104a195f29fb572d252abd83.png" group-title="USA ➾ Sports",Bally Sports Midwest Alternate
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296669.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports New Orleans" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/6f6b51944bd9bfb34765fd84ebde36d5.png" group-title="USA ➾ Sports",Bally Sports New Orleans
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296672.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports North" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7050ebe3c5c133e7e4caf294f1f00b84.png" group-title="USA ➾ Sports",Bally Sports North
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/2324.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports North Minnesota" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8054a122626d74fb4d831abd7fc7c6c4.png" group-title="USA ➾ Sports",Bally Sports North Minnesota
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296673.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports North Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/95344230d27ebefff1417a300fddf3d3.png" group-title="USA ➾ Sports",Bally Sports North Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296674.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Ohio" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ef1ba362a1ddfff93e1100e2a4c0e2be.png" group-title="USA ➾ Sports",Bally Sports Ohio
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296675.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Ohio Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2f400ce03ebc36da3128dd539f920c11.png" group-title="USA ➾ Sports",Bally Sports Ohio Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296678.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Oklahoma" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/0ea318281a2d9359a0a444e8958b367a.png" group-title="USA ➾ Sports",Bally Sports Oklahoma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/6452.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports San Diego" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/93c01620cab5644f8e93bcb398596f2c.png" group-title="USA ➾ Sports",Bally Sports San Diego
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/3361.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports SoCal" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/c38e618757eadf3d146920cb4e3e06bb.png" group-title="USA ➾ Sports",Bally Sports SoCal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296681.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports South" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/5f6098b7f5d4f5483114d31d49b2fc8b.png" group-title="USA ➾ Sports",Bally Sports South
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/277374.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Southeast" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/df1ae38ac0fcb2cfd0138b0177555177.png" group-title="USA ➾ Sports",Bally Sports Southeast
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/82301.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Southwest" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/ec3c2b7c1fa878db615f0a6fccdde1f9.png" group-title="USA ➾ Sports",Bally Sports Southwest
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/3364.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Southwest Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/beffce59a7f472589bbbfd63d1133a25.png" group-title="USA ➾ Sports",Bally Sports Southwest Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296685.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Sun" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8d757d37183d8c1141ef51906b47c9d5.png" group-title="USA ➾ Sports",Bally Sports Sun
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/2325.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports West" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/961623ebf280e45374c01097665a8aea.png" group-title="USA ➾ Sports",Bally Sports West
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/3367.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Wisconsin" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/a761a2cd4adba4dbaf367ecaf8b12d0a.jpg" group-title="USA ➾ Sports",Bally Sports Wisconsin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/295668.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bally Sports Wisconsin Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/76cb1345883ae670f46581d6ad782962.png" group-title="USA ➾ Sports",Bally Sports Wisconsin Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296689.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Arizona" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/34c48b631419d06e9b9d409435e001f2.jpg" group-title="USA ➾ Sports",PAC 12 Arizona
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7789.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Bay Area" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0319781d23595359a3df54e23ce8c912.jpg" group-title="USA ➾ Sports",PAC 12 Bay Area
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7796.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Los Angeles" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/136d7c767b1549a452e8c031abdd4189.jpg" group-title="USA ➾ Sports",PAC 12 Los Angeles
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7790.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Mountain" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5dc8e9571b0826e0a9f708660381689f.jpg" group-title="USA ➾ Sports",PAC 12 Mountain
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7793.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e7051aa01a954c84b2942b412304b2ab.jpg" group-title="USA ➾ Sports",PAC 12 Network
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/35140.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Oregon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ece236e42a5ff58840320d53328169c3.jpg" group-title="USA ➾ Sports",PAC 12 Oregon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7791.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PAC 12 Washington" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6344f4acb3f08d514e2af4441c06f9a6.jpg" group-title="USA ➾ Sports",PAC 12 Washington
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/7792.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVG 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad139b469f14382c769c1cef7daf71e7.png" group-title="USA ➾ Sports",TVG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/57055.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3a20afd154f94482c2f456803bed516a.png" group-title="USA ➾ Sports",Willow
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/2372.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Willow Xtra" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/2a9ac0a71cf1b13842fb8ac73f0f7bad.png" group-title="USA ➾ Sports",Willow Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/296763.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png" group-title="USA ➾ Sports",WWE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/2373.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lifetime Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/378d493432655ace7636a9c9f16d3ede.png" group-title="USA ➾ Movie",Lifetime Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/12992.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bb167150b4e17479be89ab93490bd3f2.png" group-title="USA ➾ Movie",Showtime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/16137.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7241d26952589668a7a2ea3017f3b4fa.png" group-title="USA ➾ Movie",Showtime 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/78161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Extreme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91d1636d38818d7397f8c2f1cd44790d.png" group-title="USA ➾ Movie",Showtime Extreme
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/12036.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Family Zone" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c4f0b00a93b31f60ee2c0bb87de2d7f.png" group-title="USA ➾ Movie",Showtime Family Zone
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/16139.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Next" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2fa0301625b9f9cfacdd39e05b215e1d.png" group-title="USA ➾ Movie",Showtime Next
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/13008.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Showcase" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f3f5c8d05f9dadbdc79167f264fb8dd.png" group-title="USA ➾ Movie",Showtime Showcase
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/6306.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Showtime Women" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7a11b929eeedadbcc4fd21be32e5a3f2.png" group-title="USA ➾ Movie",Showtime Women
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/12995.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0a99e4e6b0b4ca220ce21f483b3c4e4a.png" group-title="USA ➾ Movie",Sony Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/5831.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4bf8db70bda5c987a510f9e3666f3094.png" group-title="USA ➾ Movie",Starz
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/12044.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Cinema" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c4b96c7068312d06a011d2b3f3fd42c6.png" group-title="USA ➾ Movie",Starz Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/25811.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5422f0653ef91c2b40f4c6e2e2fc211a.png" group-title="USA ➾ Movie",Starz Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/12040.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz East" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a26b5b34b44800918a9340077f64c4c.png" group-title="USA ➾ Movie",Starz East
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/6302.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Edge" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/70e67775b3c927a8057302f038b6597e.png" group-title="USA ➾ Movie",Starz Edge
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/2357.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3f89eb81c622b3c67bb0a1d22ad57f9e.png" group-title="USA ➾ Movie",Starz Encore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/38500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f222f053df5e604b3279b4af49b7cdb8.png" group-title="USA ➾ Movie",Starz Encore Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/30773.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Black" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/0d7a5651fb932666fbda235bcd4c170a.png" group-title="USA ➾ Movie",Starz Encore Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/47925.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/559f4fb0af29a03deca927884af5cbcd.png" group-title="USA ➾ Movie",Starz Encore Classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/25816.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/28d8a8f01bf2f8a69cabc1d18ec038a5.png" group-title="USA ➾ Movie",Starz Encore Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/47926.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Suspense" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/7a8169950956b2a6700f5242f65221ae.png" group-title="USA ➾ Movie",Starz Encore Suspense
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/38501.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Encore Western" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/8c35fa692a3d2cff932d795d4188ff4e.png" group-title="USA ➾ Movie",Starz Encore Western
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/47928.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz In Black" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/f9f075c5da147ffa228619f569ed00d3.png" group-title="USA ➾ Movie",Starz In Black
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/15056.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Starz Kids & Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/886f9118de3aa4642609ceb78e94fca6.png" group-title="USA ➾ Movie",Starz Kids & Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/15052.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Film Detective" tvg-logo="http://s3.i3ns.net/portal/picon/2022-08/b1b4fb62c5a8f1662f23d07819f2fbaa.png" group-title="USA ➾ Movie",The Film Detective
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/281935.m3u8
