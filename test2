@@ -29,5 +29,5 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicat
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/11636
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="UK ➾ Sports",Box Nation
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://jessicatv.site:8080/live/one-day-test-89fc/54CbToqS2c/4719
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation2"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Box Nation2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7c2d563f238702089445c84cb1ef9b2c.png" group-title="UK ➾ Sports",Box Nation 2
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://198.16.64.10:8278/beeone/playlist.m3u8?tid=ME9E7426591274265912&ct=19225&tsum=3a6b2f7fe14db9ba39e06d66235fe2d7
