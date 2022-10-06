@@ -1,1 +1,18 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+driver = webdriver.Edge()
+driver.get("https://loveracing.nz/Common/LogOn.aspx")
 
+username = "paltridgegreg@gmail.com"
+password = "affcoman1"
+
+url = "https://loveracing.nz/Common/LogOn.aspx"
+
+driver.get(url)
+
+driver.find_element(By.ID,"txtUsername").send_keys(username)
+driver.find_element(By.ID,"txtPassword").send_keys(password)
+driver.find_element(By.ID,"cmdSignIn").click()
+driver.find_element(By.ID,"navbarDropdown").click()
+
+driver.get ("https://loveracing.nz/Common/SystemTemplates/Modal/TracksideStream.aspx?c=2")
